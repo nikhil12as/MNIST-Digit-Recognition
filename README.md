@@ -245,6 +245,8 @@ Power Shell does not support file uploads(use Git Bash).
 
 > The API hosts the trained deep-learning model and serves predictions for both:
 
-
+```https://mnist-digit-recognition-1.onrender.com```
 
 ➤ Images uploaded from the web UI
+
+<img src="images/upload_image.png" width="900">
